@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3167a85-753b-40ba-a86e-3b75f9f792eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/.nvmrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/.nvmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/absolute.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/absolute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/bower-component.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/bower-component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/npm-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/npm-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/output-relative.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/output-relative.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/project-relative.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/project-relative.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/source-relative.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/source-relative.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/utility/get-context-directory.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/utility/get-context-directory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/utility/get-output-directory.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/utility/get-output-directory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/webpack-bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/webpack-bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/webpack-protocol.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/webpack-protocol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/lib/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/lib/loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/lib/process/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/lib/process/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/.bin/json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/.zuul.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/assert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/camelcase/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/camelcase/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/camelcase/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/camelcase/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/unicode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/getHashDigest.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/getHashDigest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/getOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/getOptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/interpolateName.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/interpolateName.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/parseQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/parseQuery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/.zuul.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/support/isBuffer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/support/isBufferBrowser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/browser/inspect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/browser/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/inspect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ini/ini.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ini/ini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ini/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ini/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/benchmark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/lib/typings/regex-parser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/lib/typings/regex-parser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve-url-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve-url-loader/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/web/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/web/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/web/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/web/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/web/layouts/includes/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/web/layouts/includes/header.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/web/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/web/layouts/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="43" column="42" lean-forward="true" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="93" column="158" selection-start-line="93" selection-start-column="158" selection-end-line="93" selection-end-column="158" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_28_174556_create_semesters_table.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_234930_create_courses_table.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_181728_create_departments_table.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_170808_create_faculties_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>welcome</find>
+      <find>uniq</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/web/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/web/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/web/layouts/includes/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3167a85-753b-40ba-a86e-3b75f9f792eb" name="Default Changelist" comment="" />
+      <created>1628696362811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628696362811</updated>
+      <workItem from="1628696364776" duration="1122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1122000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36672053" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32930514" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32930514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_28_174556_create_semesters_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_234930_create_courses_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_181728_create_departments_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_170808_create_faculties_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/web/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/web/layouts/includes/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/web/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="43" column="42" lean-forward="true" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="93" column="158" selection-start-line="93" selection-start-column="158" selection-end-line="93" selection-end-column="158" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
