@@ -136,7 +136,7 @@ class LecturerController extends Controller
             $data['levels'] = Level::orderBy('id', 'ASC')->get();
             $data['courses'] = Course::orderBy('id', 'ASC')->get();
             $data['semesters'] = Semester::orderBy('id', 'ASC')->get();
-            $data['classes'] = Classes::all()->groupBy('class_id');
+            //$data['classes'] = Classes::all()->groupBy('class_id');
             return view('admin.lecturer.create', $data);
         }
     }

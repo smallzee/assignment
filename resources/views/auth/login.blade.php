@@ -11,11 +11,6 @@
 	<meta name="author" content="" />
 	<meta name="robots" content="" />
 	<!-- DESCRIPTION -->
-	<meta name="description" content="Project : ENHANCING EDUCATIONAL TECHNOLOGY VIA DIGITAL PLATFORMS BY DEVELOPING AN ONLINE ASSIGNMENT SUBMISSION SOFTWARE" />
-	
-	<!-- OG -->
-	<meta property="og:title" content="Project : ENHANCING EDUCATIONAL TECHNOLOGY VIA DIGITAL PLATFORMS BY DEVELOPING AN ONLINE ASSIGNMENT SUBMISSION SOFTWARE" />
-	<meta property="og:description" content="Project : ENHANCING EDUCATIONAL TECHNOLOGY VIA DIGITAL PLATFORMS BY DEVELOPING AN ONLINE ASSIGNMENT SUBMISSION SOFTWARE" />
 	<meta property="og:image" content="" />
     <meta name="format-detection" content="telephone=no">
     
@@ -58,7 +53,7 @@
 	<div id="loading-icon-bx"></div>
 	<div class="account-form">
 		<div class="account-head" style="background-image:url({{ asset('web/assets/images/slider/futo.jpg') }});">
-			<a href="{{ url('index') }}"><img src="{{ asset('web/assets/images/logo-white-2.png') }}" alt=""></a>
+			<a href="{{ url('/') }}"><img src="{{ asset('web/assets/images/logo-white.png') }}" alt=""></a>
 		</div>
 		<div class="account-form-inner">
 			<div class="account-container">
@@ -113,7 +108,7 @@
 							<button name="submit" type="submit" value="Submit" class="btn button-md">Login</button>
 						</div>
 						<div class="col-lg-12">
-							<h6><a href="{{ url('index') }}"> Return Home</a> </h6>
+							<h6><a href="{{ url('/') }}"> Return Home</a> </h6>
 						</div>
 					</div>
 				</form>

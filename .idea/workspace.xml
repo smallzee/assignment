@@ -2,105 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3167a85-753b-40ba-a86e-3b75f9f792eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/.nvmrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/.nvmrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/absolute.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/absolute.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/bower-component.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/bower-component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/npm-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/npm-module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/output-relative.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/output-relative.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/project-relative.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/project-relative.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/source-relative.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/source-relative.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/utility/get-context-directory.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/utility/get-context-directory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/utility/get-output-directory.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/utility/get-output-directory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/webpack-bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/webpack-bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/webpack-protocol.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/codec/webpack-protocol.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/lib/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/lib/loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/lib/process/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/lib/process/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/.bin/json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/.zuul.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/assert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/assert/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/camelcase/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/camelcase/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/camelcase/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/camelcase/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/emojis-list/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/inherits.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/inherits_browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/inherits/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/dist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/cli.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/require.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/stringify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/unicode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/json5/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/getHashDigest.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/getHashDigest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/getOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/getOptions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/interpolateName.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/interpolateName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/parseQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/lib/parseQuery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/loader-utils/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/.zuul.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/support/isBuffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/support/isBufferBrowser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/browser/inspect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/browser/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/format.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/inspect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/test/node/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/node_modules/util/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adjust-sourcemap-loader/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ini/ini.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ini/ini.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ini/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ini/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/benchmark.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/object-path/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/lib/typings/regex-parser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/lib/typings/regex-parser.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regex-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regex-parser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resolve-url-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve-url-loader/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/StudentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/web/assets/images/logo-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/web/assets/images/logo-white.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/web/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/web/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/web/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/web/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/web/layouts/includes/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/web/layouts/includes/header.blade.php" afterDir="false" />
     </list>
@@ -110,86 +16,89 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="146">
+              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/web/index.blade.php">
+        <entry file="file://$PROJECT_DIR$/database/seeders/AdminSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-            </state>
+            <state relative-caret-position="-83" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/web/layouts/app.blade.php">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="43" column="42" lean-forward="true" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
-            </state>
+            <state relative-caret-position="-626" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/StudentController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="93" column="158" selection-start-line="93" selection-start-column="158" selection-end-line="93" selection-end-column="158" />
+            <state relative-caret-position="143">
+              <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_28_174556_create_semesters_table.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_234930_create_courses_table.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_181728_create_departments_table.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_170808_create_faculties_table.php">
+        <entry file="file://$PROJECT_DIR$/app/Models/Classes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="90">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+        <entry file="file://$PROJECT_DIR$/app/Models/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-            </state>
+            <state relative-caret-position="-1113" />
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeders/SemesterSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-143" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeders/WebSettingSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeders/TeacherSeeder.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>welcome</find>
       <find>uniq</find>
+      <find>welcome</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -201,8 +110,10 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/web/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/web/layouts/app.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/web/layouts/includes/header.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" />
+        <option value="$PROJECT_DIR$/resources/views/web/layouts/includes/header.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/StudentController.php" />
       </list>
     </option>
   </component>
@@ -342,13 +253,52 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
@@ -360,6 +310,38 @@
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
               <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="seeders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
@@ -391,12 +373,20 @@
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,6 +395,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/web/assets/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -434,25 +429,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628696362811</updated>
-      <workItem from="1628696364776" duration="1122000" />
+      <workItem from="1628696364776" duration="2759000" />
+      <workItem from="1628766730350" duration="4573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1122000" />
+    <option name="totallyTimeSpent" value="7332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36672053" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3723748" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32930514" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32930514" />
@@ -460,10 +452,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32930514" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,13 +473,53 @@
     <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_234930_create_courses_table.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-746" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/ui/auth-backend/RegistersUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/web/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/web/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" column="50" selection-start-line="110" selection-start-column="50" selection-end-line="110" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_181728_create_departments_table.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2021_03_18_170808_create_faculties_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -493,38 +530,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/web/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/web/layouts/includes/header.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="198">
+          <caret line="69" column="126" selection-start-line="69" selection-start-column="126" selection-end-line="69" selection-end-column="126" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/web/layouts/app.blade.php">
+    <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="43" column="42" lean-forward="true" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        <state relative-caret-position="146">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+    <entry file="file://$PROJECT_DIR$/database/seeders/SemesterSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="93" column="158" selection-start-line="93" selection-start-column="158" selection-end-line="93" selection-end-column="158" />
+        <state relative-caret-position="-143" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/TeacherSeeder.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/WebSettingSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/AdminSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-626" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1113" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Classes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/StudentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
         </state>
       </provider>
     </entry>

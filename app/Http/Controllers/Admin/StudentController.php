@@ -125,7 +125,7 @@ class StudentController extends Controller
             $data['faculties'] = Faculties::orderBy('name', 'ASC')->get();
             $data['departments'] = Department::orderBy('name', 'ASC')->get();
             $data['levels'] = Level::orderBy('id', 'ASC')->get();
-            $data['classes'] = Classes::all()->groupBy('class_id');
+            //$data['classes'] = Classes::all()->groupBy('class_id');
             return view('admin.students.create', $data);
         }
     }
