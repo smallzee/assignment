@@ -20,7 +20,7 @@ class DashboardController extends Controller
     public function index()
     {
         $data['title'] = 'My Dashboard';
-        $data['class'] = Classes::where('class_id', Auth::user()->class_id)->first();
+        //$data['class'] = Classes::where('class_id', Auth::user()->class_id)->first();
         $data['student'] = $u = User::where('id', Auth::user()->id)->with('faculty:id,name')->with('dept:id,name')->with('level:id,name')->first();
         // dd($u)->faculty;
         return view('student.dashboard.index', $data);

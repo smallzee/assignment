@@ -32,7 +32,7 @@ class SubjectController extends Controller
     {
         $data['title'] = 'Assignments';
         $data['sn'] = 1;
-        $data['class'] = Classes::where('class_id', Auth::user()->class_id)->first();
+        //$data['class'] = Classes::where('class_id', Auth::user()->class_id)->first();
         $data['assignments'] = Assignment::where('user_id', Auth::user()->id)->with('faculty:id,name,code')->with('dept:id,name')->with('level:id,name')->with('semester:id,name')->with('course:id,course_title,course_code')->get();
         return view('student.assignment.index', $data);
     }

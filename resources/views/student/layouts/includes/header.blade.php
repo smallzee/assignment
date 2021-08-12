@@ -9,14 +9,14 @@
 			</div>
 			<!--sidebar menu toggler end -->
 			<!--logo start -->
-			<div class="ttr-logo-box">
-				<div>
-					<a href="{{ url('/') }}" class="ttr-logo">
-						<img class="ttr-logo-mobile" alt="" src="{{ asset('dashboard/assets/images/logo-mobile.png') }}" width="30" height="30">
-						<img class="ttr-logo-desktop" alt="" src="{{ asset('dashboard/assets/images/logo-white.png') }}" width="160" height="27">
-					</a>
-				</div>
-			</div>
+				{{--<div class="ttr-logo-box">--}}
+					{{--<div>--}}
+						{{--<a href="{{ url('/') }}" class="ttr-logo">--}}
+							{{--<img class="ttr-logo-mobile" alt="" src="{{ asset('web/assets/images/logo-white.png') }}" width="30" height="30">--}}
+							{{--<img class="ttr-logo-desktop" alt="" src="{{ asset('web/assets/images/logo-white.png') }}" width="160" height="27">--}}
+						{{--</a>--}}
+					{{--</div>--}}
+				{{--</div>--}}
 			<!--logo end -->
 			<div class="ttr-header-menu">
 				<!-- header left menu start -->

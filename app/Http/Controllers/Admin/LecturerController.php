@@ -173,7 +173,7 @@ class LecturerController extends Controller
             $data['levels'] = Level::orderBy('id', 'ASC')->get();
             $data['courses'] = Course::orderBy('id', 'ASC')->get();
             $data['semesters'] = Semester::orderBy('id', 'ASC')->get();
-            $data['classes'] = Classes::all()->groupBy('class_id');
+            //$data['classes'] = Classes::all()->groupBy('class_id');
             $data['lecturer'] = User::where(['id' => $id, 'role' => 'Lecturer'])->first();
             $data['title'] = 'Edit Lecturer';
             $data['sn'] = 1;
