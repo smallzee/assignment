@@ -13,18 +13,18 @@
 	<!-- DESCRIPTION -->
 	<meta property="og:image" content="" />
     <meta name="format-detection" content="telephone=no">
-    
+
 	<!-- FAVICONS ICON ============================================= -->
 	<link rel="icon" href="{{ asset('web/assets/images/favicon.ico') }}" type="image/x-icon" />
 	<link rel="shortcut icon" type="image/x-icon" href="{{ asset('web/assets/images/favicon.png') }}" />
-	
+
 	<!-- MOBILE SPECIFIC ============================================= -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	
+
+
 	<!-- PAGE TITLE HERE ============================================= -->
     <title>Login - Assignment Submission </title>
-	
+
 	<!-- MOBILE SPECIFIC ============================================= -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	@include('admin.layouts.includes.alert')
@@ -32,21 +32,21 @@
 	<script src="assets/js/html5shiv.min.js"></script>
 	<script src="assets/js/respond.min.js"></script>
 	<![endif]-->
-	
+
 	<!-- All PLUGINS CSS ============================================= -->
 	<link rel="stylesheet" type="text/css" href="{{ asset('web/assets/css/assets.css') }}">
-	
+
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.css">
 	<!-- TYPOGRAPHY ============================================= -->
 	<link rel="stylesheet" type="text/css" href="{{ asset('web/assets/css/typography.css') }}">
-	
+
 	<!-- SHORTCODES ============================================= -->
 	<link rel="stylesheet" type="text/css" href="{{ asset('web/assets/css/shortcodes/shortcodes.css') }}">
-	
+
 	<!-- STYLESHEETS ============================================= -->
 	<link rel="stylesheet" type="text/css" href="{{ asset('web/assets/css/style.css') }}">
 	<link class="skin" rel="stylesheet" type="text/css" href="{{ asset('web/assets/css/color/color-1.css') }}">
-	
+
 </head>
 <body id="bg">
 <div class="page-wraper">
@@ -60,14 +60,14 @@
 				<div class="heading-bx left">
 					<h2 class="title-head">Login to your <span>Account</span></h2>
 					{{-- <p>Don't have an account? <a href="register.html">Create one here</a></p> --}}
-				</div>	
+				</div>
                 <form class="contact-bx" method="POST" action="{{ route('login') }}">
                     @csrf
 					<div class="row placeani">
 						<div class="col-lg-12">
 							<div class="form-group">
 								<div class="input-group">
-									<label>Matric Number</label>
+									<label>Matric Number / Email Address / Lecturer Id</label>
                                     <input id="email" type="" class="form-control @error('matric_number') is-invalid @enderror" name="matric_number" required value="{{ old('matric_number') }}">
                                     @error('matric_number')
                                         <span class="invalid-feedback" role="alert">
@@ -84,7 +84,7 @@
 						</div>
 						<div class="col-lg-12">
 							<div class="form-group">
-								<div class="input-group"> 
+								<div class="input-group">
 									<label>Password</label>
                                     <input id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" required  autocomplete="new-password">
                                     @error('password')

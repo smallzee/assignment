@@ -30,7 +30,7 @@
                     data-param9="" data-param10="" 
                     data-description="Science says that Women are generally happier">
                         <!-- MAIN IMAGE -->
-                        <img src="{{ asset('web/assets/images/slider/futo.jpg') }}" alt="" 
+                        <img src="{{ asset('web/assets/images/our-services/7.jpeg') }}" alt=""
                             data-bgposition="center center" 
                             data-bgfit="cover" 
                             data-bgrepeat="no-repeat" 
@@ -118,13 +118,13 @@
                     <div class="col-lg-4 col-md-4 col-sm-6">
                         <div class="service-bx">
                             <div class="action-box">
-                                <img src="{{ asset('web/assets/images/our-services/1.jpeg') }}" alt="">
+                                <img src="{{ asset('web/assets/images/our-services/9.jpeg') }}" alt="">
                             </div>
                             <div class="info-bx text-center">
                                 <div class="feature-box-sm radius bg-white">
                                     <i class="fa fa-bank text-primary"></i>
                                 </div>
-                                <h4><a href="#">Best Industry Leaders</a></h4>
+                                <h4><a href="#">Library</a></h4>
                                 <a href="#" class="btn radius-xl">View More</a>
                             </div>
                         </div>
@@ -132,13 +132,13 @@
                     <div class="col-lg-4 col-md-4 col-sm-6">
                         <div class="service-bx">
                             <div class="action-box">
-                                <img src="{{ asset('web/assets/images/our-services/2.jpeg') }}" alt="">
+                                <img style="height: 180px;" src="{{ asset('web/assets/images/our-services/7.jpeg') }}" alt="">
                             </div>
                             <div class="info-bx text-center">
                                 <div class="feature-box-sm radius bg-white">
                                     <i class="fa fa-book text-primary"></i>
                                 </div>
-                                <h4><a href="#">Learn Courses Online</a></h4>
+                                <h4><a href="#">South Campus Gate</a></h4>
                                 <a href="#" class="btn radius-xl">View More</a>
                             </div>
                         </div>
@@ -146,7 +146,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="service-bx m-b0">
                             <div class="action-box">
-                                <img src="{{ asset('web/assets/images/our-services/3.jpeg') }}" alt="">
+                                <img src="{{ asset('web/assets/images/our-services/8.jpeg') }}" style="height: 180px;" alt="">
                             </div>
                             <div class="info-bx text-center">
                                 <div class="feature-box-sm radius bg-white">

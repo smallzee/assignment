@@ -28,7 +28,7 @@
 										</div>
 									</div>
 									<div class="form-group row">
-										<label class="col-sm-2 col-form-label">Faculty</label>
+										<label class="col-sm-2 col-form-label">School</label>
 										<div class="col-sm-7">
                       <select disabled class="form-control" name="faculty_id">
                         @isset($faculties)
@@ -87,7 +87,7 @@
 										</div>
 									</div>
 									<div class="form-group row">
-										<label class="col-sm-2 col-form-label">Course</label>
+										<label class="col-sm-2 col-form-label">Course Code</label>
 										<div class="col-sm-7">
                       <select class="form-control" name="course_id" id="course_id">
                         {{-- @isset($courses)

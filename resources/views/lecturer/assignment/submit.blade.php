@@ -1,4 +1,4 @@
-@extends('student.layouts.app')
+@extends('lecturer.layouts.app')
 @section('student')
 
 	<!--Main container start -->

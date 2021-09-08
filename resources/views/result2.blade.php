@@ -5,7 +5,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
   </head>
   <body>
-    <h1 style="text-align:center">EdChamp Education & Courses</h1> 
+    {{--<h1 style="text-align:center">EdChamp Education & Courses</h1> --}}
     <div class="row" style="margin-bottom:50px">
         <h3>Name: {{Auth::user()->surname}} {{Auth::user()->last_name}}</h3>
         <h3>Teacher ID: {{Auth::user()->email}}</h3>

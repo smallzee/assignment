@@ -42,7 +42,7 @@
                                             <td>Semester</td>
                                             <td>Assignment</td>
                                             <td>Date submitted</td>
-                                            <td>Action</td>
+                                            <td>Remark</td>
                                         </tr>
                                     </thead>
                                     <tbody>
